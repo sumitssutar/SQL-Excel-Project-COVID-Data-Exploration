@@ -90,12 +90,12 @@ Analyze COVID-19 data using SQL to identify patterns in cases, deaths and vaccin
 ```bash
 covid19-data-exploration-sql-excel/
 │
+├── sql/
+│   └── SQL Queries=Data Exploration on Covid Data.sql
+│
 ├── datasets/
 │   ├── CovidDeaths.xlsx
 │   ├── CovidVaccinations.xlsx
-│
-├── sql/
-│   └── SQL Queries=Data Exploration on Covid Data.sql
 │
 ├── docs/
 │   └── data_catalog.md
